@@ -1,0 +1,37 @@
+ Falcon  -  Traffic Light Red
+
+Falco -  Blue 2.4
+
+Fox - Orange 2.3
+
+Ganondorf - Purple_pink-Gray 1.1
+
+Ice Climbers-  Tableau Classic 10 pink
+
+jigglypuff-  Tableau Classic Medium  pink
+
+Luigi - Green 4.2
+
+marth -  Blue 4.4
+
+Peach - Hue Circle 4.3
+
+Pikachu Red-Gold 1.1
+
+Roy - Red_Gold 2.4
+
+Samus - Orange 4.2
+
+Sheik - Summer 1.2
+
+Yoshi - Jewel Bright Green
+
+Dr. Mario Tableau Classic 10 1.2
+
+Mewtwo -  Tableau Classic 10 5.1
+
+Young Link -  Tableua Classic 10  3.1
+
+Zelda  -  Tableau Classic 10  2.2
+
+Donkey Kong -  Brown  5.4
